@@ -1,2 +1,3 @@
 sed -i 's/echo "ALX"/echo "ALX School"/g'
 “ALX”
+“ALX School”
