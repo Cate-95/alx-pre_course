@@ -1,2 +1,3 @@
 sed -i 's/echo "School"/echo "the School is open!"/g'
 
+“School”
